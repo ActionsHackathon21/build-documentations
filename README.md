@@ -20,6 +20,10 @@ Check the complete workflow here ([build-documentations.yml](.github/workflows/b
 - You can also configure the branches which you want to run this workflow, with `branches` key.
 - To configure the Github pages, you can go to **settings** > **pages** > **Source** and choose the documentation branch.
 
+
+![Config](https://github.com/ActionsHackathon21/build-documentations/raw/main/screenshot2.png)
+
+
 ## Flows
 - Use **[actions/checkout@v2](https://github.com/actions/checkout)** to checkout source code from the repository
 - Use **[actions/cache@v2](https://github.com/actions/cache)** to cache dependencies (`.pip` directory)
