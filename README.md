@@ -21,7 +21,7 @@ Check the complete workflow here ([build-documentations.yml](.github/workflows/b
 - To configure the Github pages, you can go to **settings** > **pages** > **Source** and choose the documentation branch.
 
 
-![Config](https://github.com/ActionsHackathon21/build-documentations/raw/main/screenshot2.png)
+![Config](https://github.com/ActionsHackathon21/build-documentations/raw/main/screenshot3.png)
 
 
 ## Flows
