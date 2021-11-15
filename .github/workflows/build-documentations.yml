@@ -67,8 +67,9 @@ jobs:
         echo "Pushing build $GIT_COMMIT to $DEPLOY_BRANCH"
         mv .git BUILD/.git
         cd BUILD
+        git status
         git add -A
-        git commit -m "Automated build $GIT_COMMIT"
+        git commit -m "Automated documentation build $GIT_COMMIT"
         git push origin $DEPLOY_BRANCH
         cd ..
         
