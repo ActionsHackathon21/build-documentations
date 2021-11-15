@@ -6,6 +6,8 @@ Use GitHub Actions and Workflows to build your documentations with MkDocs, then 
 
 ![Screenshot](https://github.com/ActionsHackathon21/build-documentations/raw/main/screenshot.png)
 
+![Result](https://github.com/ActionsHackathon21/build-documentations/raw/main/screenshot2.png)
+
 Check the complete workflow here ([build-documentations.yml](.github/workflows/build-documentations.yml))
 
 ## Actions used
